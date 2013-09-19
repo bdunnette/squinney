@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "collection-api": {},
+    "collectionFS": {
+      "git": "https://github.com/aldeed/Meteor-CollectionFS.git",
+      "branch": "master"
+    },
+    "bootstrap-3": {},
+    "iron-router": {}
+  }
+}
